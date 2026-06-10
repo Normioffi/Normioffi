@@ -1,6 +1,25 @@
-# Normi-kun
-## FR
-Salut! Bienvenue sur mon profil... Et c'est tout, je fais rien de bien intéressant, mais tu peux tout de même regarder mes deux petits projets principaux.
+### Salut, moi c'est Normi!
 
-## EN
-Hello! Welcome on my profil... And that's all, i don't do anything really special, but you still can look at my two main projects.
+Je crée principalement des petits projets de passions pour le fun et pour apprendre!
+Ce que j'aime faire:
+
+- Applications Web NodeJS & NextJS (React)
+- Applications Android (Kotlin)
+- Modules JS/TS simplifiés (je pense)
+- Modélisation 3D
+
+Je ne suis pas un expert!!
+
+# Languages utilisés
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JS / JavaScript"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TS / TypeScript"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="KT / Kotlin"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua1.svg" alt="Lua / Luau (pour Roblox Studio"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="C# / CSharp"/>
+
+# Logiciels utilisés
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="Visual Studio Code"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg" alt="Android Studio" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg" alt="Visual Studio" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg" alt="Blender"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" alt="Figma pour textures"/>
